@@ -21,3 +21,9 @@
           git reset --hard 3628164 回滚到指定版本
 
 8.git reflog查看命令历史，以便确定要回到未来的哪个版本
+
+
+asdfadsfsadfasdf
+
+
+asdfasdf
